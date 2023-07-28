@@ -1,9 +1,11 @@
 # How To Use AVIS
 
 ## Intro
-AVIS is an intelligent search interrogation software that utilises the power of AI and NLP.
+AVIS (A Very Intelligent System) is a proprietary development by Oxford Dynamics Limited, UK.  AVIS is an intelligent search and interrogation system that utilises the power of AI and NLP.
 
-_The website is currently under development, as such, certain features may not be available or fully working._
+The web interface, and underlying AVIS technology, is currently under development, so some bugs may be evident.  We would greatly appreciate it if you could let us know if you encounter any and we’ll do our best to address them as quickly as possible.  You can let us know via email to:  lets_talk@oxdynamics.com
+
+We hope you enjoy AVIS’ power to unlock the information in your documents!
 
 ## Demo 🎥:
 
