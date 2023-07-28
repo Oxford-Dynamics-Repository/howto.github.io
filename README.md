@@ -42,3 +42,12 @@ Loading may take several seconds, once loaded you can ask your question in the s
 ![Screenshot of multi-file upload.](img/multi_file_loaded.png)
 
 ### 🗒️ Please note: 
+The web application is currently in its early beta version release for a trial period, and as a result, it may exhibit some limitations. Here are the expected behaviors:
+
+1. The interrogation works effectively when the user initiates the conversation with specific topic-related questions like "What are digital humans?" or "Are the digital humans personalizable?" In contrast, more general questions such as "What is written in the document I just uploaded?" may not yield optimal results.
+
+2. However, once AVIS generates answers, subsequent questions can be broader and more general. For instance, users can inquire, "Can you explain that to me in simple terms?" or "Can you summarize that in one sentence?"
+
+3. Non-UK users may experience a potential lag in data processing and response generation. This delay is attributed to the fact that the back-end servers of the web application are hosted in the UK.
+
+Please keep in mind these limitations while using the web application during its trial period. Your feedback will be invaluable in improving its performance and enhancing the user experience.
