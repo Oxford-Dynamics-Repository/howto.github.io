@@ -15,31 +15,35 @@ We hope you enjoy AVIS’ power to unlock the information in your documents!
 
 ## Getting started 🚀:
 ### 1. Login
-Login to the website by agreeing to the terms and conditions, then create a one-time password (this may go to your junk email folder)
+Click the login button in the top right corner, enter your email and agree to the terms and conditions. After clicking continue, a one-time password will be sent to your email (this may go to your junk email folder). Please enter this and hit sign in.
 
 ![Screenshot of login screen.](img/login.png)
 
 ### 2. a) Files
-   To use documents, click the Upload PDF box and select your documents from the explorer. 
+   To upload PDFs, please click the Upload PDF box and select your document or documents from the explorer (maximum is set to 5). 
    ![Screenshot of loading files.](img/pdfs.png)
    
 ### 2. b) URLS
-   To use websites, paste the link to the website in the bar shown. Press enter to include multiple URLs. Then press the ready button.
+   To upload content based on website URLs, please paste the link to the website in the area shown. For multiple websites, please press enter after each website link (maximum is set to 5).
 ![Screenshot of loading URLs.](img/urls.png)
 
 ### 3. Chat
-Once the files/URLs have loaded, you can ask your question in the search bar.
+Once the files/URLs have loaded, you can ask questions in the ‘send a message’ box.
 ![Screenshot of loaded screen.](img/loaded.png)
 
    👍 Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
 ![Screenshot of example questions.](img/questions.png)
 
-### 4. Multiple Uploads
+### 4. a) Multiple PDFs
 To select multiple documents, refer to step 2a and hold CTRL to click each document.
 ![Screenshot of multi-file upload.](img/multi_file.png)
 
 Loading may take several seconds, once loaded you can ask your question in the search bar.
 ![Screenshot of multi-file upload.](img/multi_file_loaded.png)
+
+### 4. b) Multiple URLs
+To enter multiple URLs, refer to step 2b and press enter after each link.
+
 
 ### 🗒️ Please note: 
 The web application is currently in its early beta version release for a trial period, and as a result, it may exhibit some limitations. Here are the expected behaviors:
