@@ -41,3 +41,4 @@ To select multiple documents, refer to step 2a and hold CTRL to click each docum
 Loading may take several seconds, once loaded you can ask your question in the search bar.
 ![Screenshot of multi-file upload.](img/multi_file_loaded.png)
 
+### 🗒️ Please note: 
