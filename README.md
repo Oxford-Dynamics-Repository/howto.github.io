@@ -25,12 +25,17 @@ Login to the website by agreeing to the terms and conditions, then create a one-
    To use websites, paste the link to the website in the bar shown. Press enter to include multiple URLs. Then press the ready button.
 ![Screenshot of loading URLs.](img/urls.png)
 
-### 3. 
+### 3. Chat
 Once the files/URLs have loaded, you can ask your question in the search bar.
 ![Screenshot of loaded screen.](img/loaded.png)
 
    👍 Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
 ![Screenshot of example questions.](img/questions.png)
 
-### 4.
+### 4. Multiple Uploads
 To select multiple documents, refer to step 2a and hold CTRL to click each document.
+![Screenshot of multi-file upload.](img/multi_file.png)
+
+Loading may take several seconds, once loaded you can ask your question in the search bar.
+![Screenshot of multi-file upload.](img/multi_file_loaded.png)
+
