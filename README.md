@@ -12,7 +12,7 @@ https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a
 [<img src="https://static.vecteezy.com/system/resources/previews/000/574/204/original/vector-sign-of-download-icon.jpg" width="5%">](https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0 "Demo video")
 
 ## Getting started 🚀:
-### 1. 
+### 1. Login
 Login to the website by agreeing to the terms and conditions, then create a one-time password (this may go to your junk email folder)
 
 ![Screenshot of login screen.](img/login.png)
