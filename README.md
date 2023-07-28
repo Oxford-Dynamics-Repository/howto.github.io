@@ -32,4 +32,5 @@ Once the files/URLs have loaded, you can ask your question in the search bar.
    👍 Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
 ![Screenshot of example questions.](img/questions.png)
 
-   👍 To select multiple documents, refer to step 2a and hold CTRL to click each document.
+### 4.
+To select multiple documents, refer to step 2a and hold CTRL to click each document.
