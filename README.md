@@ -7,7 +7,7 @@ _The website is currently under development, as such, certain features may not b
 
 ## Demo 🎥:
 
-https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0
+![Demo video](https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0)
 
 ## Getting started 🚀:
 ### 1. 
