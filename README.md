@@ -7,7 +7,7 @@ _The website is currently under development, as such, certain features may not b
 
 ## Demo 🎥:
 
-https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0
+[avis demo video](https://vimeo.com/849488516/2325c2fb8b?share=copy)
 
 [<img src="https://static.vecteezy.com/system/resources/previews/000/574/204/original/vector-sign-of-download-icon.jpg" width="5%">](https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0 "Demo video")
 
