@@ -9,7 +9,7 @@ _The website is currently under development, as such, certain features may not b
 
 https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%"](https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0 "Demo video")
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://github.com/Oxford-Dynamics-Repository/howto.github.io/assets/121232301/a7df2ecc-0bbb-4440-8295-fbc487d276c0 "Demo video")
 
 ## Getting started 🚀:
 ### 1. 
