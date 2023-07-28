@@ -43,7 +43,10 @@ Loading may take several seconds, once loaded you can ask your question in the s
 
 ### 4. b) Multiple URLs
 To enter multiple URLs, refer to step 2b and press enter after each link.
+![Screenshot of multi-url upload.](img/multi_url.png)
 
+Loading may take several seconds, once loaded you can ask your question in the search bar.
+![Screenshot of multi-url upload.](img/multi_url_loaded.png)
 
 ### 🗒️ Please note: 
 The web application is currently in its early beta version release for a trial period, and as a result, it may exhibit some limitations. Here are the expected behaviors:
